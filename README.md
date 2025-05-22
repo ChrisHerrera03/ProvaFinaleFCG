@@ -1,5 +1,6 @@
 # Progetto Finale - Fondamenti di Computer Grafica
 Tra le diverse opzioni offerte per poter realizzare il progetto finale, ho scelto di utilizzare Blender `versione 4.4.1`. Il soggetto scelto è un personaggio molto noto della Disney, Stitch, la cui creazione in 3D non è stata eccessivamente complessa.
+Infine, il progetto nella sua interità è basato sull'utilizzo e sulla manipolazione degli oggetti `Cube`.
 ## Struttura del progetto
 La repository è costituita dalle cartelle che descrivono i passaggi progressivi (almeno 10) che hanno portato alla costruzione del personaggio dall'inizio fino alla sua conclusione. 
 Più precisamente, ciascuna cartella contiente i file:
