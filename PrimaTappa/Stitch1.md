@@ -2,7 +2,8 @@
 Per la creazione del busto è stato necessario l'utilizzo dell'oggetto Cube, selezionabile con il comando `Shift + A`.
 Questo comando apre una finestra da cui si possono aggiungere diversi oggetti e dove si potrà
 selezionare la Mesh che vogliamo, ovvero `Mesh > Cube`.
-![ciao](../images/menu.png)
+
+<img src = "../image/menu.png" width = "250" alt = "ciao"> 
 
 Il cubo scelto è stato allargato in altezza (`S + Z`) e in lunghezza (`S + X`), per farlo assomigliare
 ad un busto (inizialmente senza forma). Poi si passa in Edit Mode (`Tab`) e si
