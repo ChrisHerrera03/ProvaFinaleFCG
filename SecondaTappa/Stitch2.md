@@ -1,4 +1,4 @@
-## Descrizione dei Passaggi effettuati (Stitch2)
+## Descrizione dei Passaggi effettuati (`Stitch2.blend` - Testa)
 Per la creazione della testa, i passaggi sono simili a quelli effettuati per il busto, ovvero:
 - prendere il Cube (`Shift + A, Mesh > Cube` );
 - posizionarlo sopra il busto (`G + Z`)

@@ -1,4 +1,4 @@
-## Descrizione dei Passaggi effettuati (Stitch3)
+## Descrizione dei Passaggi effettuati (`Stitch3.blend` - Muso)
 Per la creazione del muso, i passaggi sono simili a quelli effettuati per il busto e la testa, ovvero:
 - prendere il Cube (`Shift + A, Mesh > Cube` );
 - posizionarlo dentro la testa, al suo centro(`G + Z`), spostarlo appena fuori da essa in modo che sia visibile (`G + X`) e ruotarlo di pochi gradi verso l'alto (`R`)

@@ -1,4 +1,4 @@
-## Descrizione dei Passaggi effettuati (Stitch4)
+## Descrizione dei Passaggi effettuati (`Stitch4.blend` - Braccia)
 Per la creazione delle braccia, invece, i passaggi iniziali sono sempre i medesimi fatti finora: 
 - prendere il Cube (`Shift + A, Mesh > Cube`);
 - posizionarlo vicino al busto (`G`) e ruotarlo di pochi gradi verso l'alto (`R`)
@@ -10,7 +10,7 @@ Per la creazione delle braccia, invece, i passaggi iniziali sono sempre i medesi
     - <img src = "../images/braccio.png" width = "260">
 
 
-- per poter ottenere due braccia uguali si applica il modifier Mirror(`Add Modifier > Generate > Mirror`) con oggetto di riferimento il busto creato in precedenza
+- per poter ottenere due braccia uguali si applica il modifier Mirror(`Add Modifier > Generate > Mirror`) scegliendo come oggetto di riferimento il busto creato in precedenza
     - <img src = "../images/duebraccia.png" width = "260">
 
 
