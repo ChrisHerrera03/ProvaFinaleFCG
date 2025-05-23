@@ -7,15 +7,15 @@ Più precisamente, ciascuna cartella contiente i file:
 * `.blender`, contiene la struttura 3D del personaggio fino a quella determinata tappa
 * `.pdf`, contiene una minima descrizione delle modifiche aggiuntive effettuate fino a quella determinata tappa
 ### Istruzioni d'uso
-Per poter visualizzare il progresso del progetto sarà sufficiente cliccare sul file `.blender` contenuto all'interno della cartella della tappa che si vuole *osservare*.
-## Lista precisa delle *cose* sviluppate per ogni tappa
-1.  `Stitch1.blender`: creazione busto
-2.  `Stitch1.blender`: creazione testa
-1.  `Stitch1.blender`: creazione muso
-1.  `Stitch1.blender`: creazione orecchie
-1.  `Stitch1.blender`: creazione braccia
-1.  `Stitch1.blender`: creazione zampe
-1.  `Stitch1.blender`: creazione occhi
-1.  `Stitch1.blender`: creazione unghie
+Per poter visualizzare il progresso del progetto sarà sufficiente cliccare sul file `.blender` contenuto all'interno della cartella della tappa che si vuole osservare.
+## Lista precisa delle cose sviluppate per ogni tappa
+1.  `Stitch1.blender`: busto
+2.  `Stitch1.blender`: testa
+1.  `Stitch1.blender`: muso
+1.  `Stitch1.blender`: orecchie
+1.  `Stitch1.blender`: braccia
+1.  `Stitch1.blender`: zampe
+1.  `Stitch1.blender`: occhi
+1.  `Stitch1.blender`: unghie
 1.  `Stitch1.blender`: bocca e colore
-1.  `Stitch1.blender`: creazione scena (sfondo e rendering finale)
+1.  `Stitch1.blender`: scena (sfondo e rendering finale)

@@ -1,4 +1,4 @@
-## Descrizione dei Passaggi effettuati (`Stitch6.blend` - Zampe Inferiori)
+## Descrizione dei Passaggi effettuati (`Stitch7.blend` - Zampe posteriori)
 Prima di procedere con la costruzione delle zampe, è necessario specchiare l'intero busto prima di cominciare. In Edit Mode, selezionare in alto a destra Viewport Shading, selezionare i vertici della parte destra del busto ed eliminarli (`X` > `Vertices`) avendo così come risultato intermedio:
 
 <img src = "../images/meta-busto.PNG" width = "250">
@@ -10,3 +10,6 @@ Per poter creare le zampe, è stato necessario usare un Loop Cut sul busto (Edit
 
 <img src = "../images/zampa-base.PNG" width = "250">
 <img src = "../images/zampa.PNG" width = "245">
+
+# Risultato finale
+<img src = "../images/render-result-6.PNG">
