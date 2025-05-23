@@ -1,8 +1,12 @@
 ## Descrizione dei Passaggi effettuati (`Stitch6.blend` - Zampe Inferiori)
+Prima di procedere con la costruzione delle zampe, è necessario specchiare l'intero busto prima di cominciare. In Edit Mode, selezionare in alto a destra Viewport Shading, selezionare i vertici della parte destra del busto ed eliminarli (`X` > `Vertices`) avendo così come risultato intermedio:
+
+<img src = "../images/meta-busto.PNG" width = "250">
+
+Dopo è stato necessario applicare il modifier Mirror (`Add Modifier > Generate > Mirror`) così ottenendo un busto uniforme da tutti e due i lati.
+
+
 Per poter creare le zampe, è stato necessario usare un Loop Cut sul busto (Edit Mode `Tab` > `Ctrl + R`), selezionare la faccia che è stata creata ed estruderla verso l'esterno (`E` in Edit Mode) diverse volte usando di volta in volta il comando che permette di ruotare oggetti (`R`)
 
-<img src = "../images/zampa-base.png" width = "250">
-<img src = "../images/zampa.png" width = "245">
-
-Successivamente bisogna specchiare la zampa appena creata e per poterlo fare è fondamentale 
-
+<img src = "../images/zampa-base.PNG" width = "250">
+<img src = "../images/zampa.PNG" width = "245">

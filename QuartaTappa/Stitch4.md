@@ -7,11 +7,12 @@ Per la creazione delle braccia, invece, i passaggi iniziali sono sempre i medesi
 - applichiamo il Modifier Subdivision Surface (`Add Modifier > Generate > Subdivision Surface`)
 - aggiungere Shade Smooth (tasto destro sull'oggetto > `Shade Smooth`)
 
-    - <img src = "../images/braccio.png" width = "260">
+    <img src = "../images/braccio.PNG" width = "260">
 
 
 - per poter ottenere due braccia uguali si applica il modifier Mirror(`Add Modifier > Generate > Mirror`) scegliendo come oggetto di riferimento il busto creato in precedenza
-    - <img src = "../images/duebraccia.png" width = "260">
+
+    <img src = "../images/duebraccia.PNG" width = "260">
 
 
 

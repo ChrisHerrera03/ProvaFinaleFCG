@@ -5,7 +5,7 @@ Per la creazione del muso, i passaggi sono simili a quelli effettuati per il bus
 - aggiungere un loop cut al centro (passare in `Edit Mode` con `Tab` e poi `Ctrl + R`)
 - deformarlo e farlo assomigliare ad un esagono molto irregolare, prendendo i vertici superiori ed inferiori della figura con `S + X` per stringerli e la linea centrale, sempre con `S + X` per allungarlo
 
-    - <img src = "../images/naso.png" width = "350">
+    - <img src = "../images/naso.PNG" width = "350">
 
 
 - aggiungere il Modifier Subdivision Surface (`Add Modifier > Generate > Subdivision Surface`)
