@@ -1,5 +1,4 @@
 # Descrizione dei passaggi effettuati (`Stich9.blend` - Creazione scena)
-## Descrizione dei passaggi effettuati
 Cose fatte nell'ultima tappa:
 1. Sabbia: 
     * oggetto di partenza: cube
