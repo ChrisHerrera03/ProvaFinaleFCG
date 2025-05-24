@@ -10,12 +10,12 @@ Più precisamente, ciascuna cartella contiente i file:
 Per poter visualizzare il progresso del progetto sarà sufficiente cliccare sul file `.blender` contenuto all'interno della cartella della tappa che si vuole osservare.
 ## Lista precisa delle cose sviluppate per ogni tappa
 1.  `Stitch1.blender`: busto
-2.  `Stitch1.blender`: testa
-1.  `Stitch1.blender`: muso
-1.  `Stitch1.blender`: orecchie
-1.  `Stitch1.blender`: braccia
-1.  `Stitch1.blender`: zampe
-1.  `Stitch1.blender`: occhi
-1.  `Stitch1.blender`: unghie
-1.  `Stitch1.blender`: bocca e colore
-1.  `Stitch1.blender`: scena (sfondo e rendering finale)
+2.  `Stitch2.blender`: testa
+1.  `Stitch3.blender`: muso
+1.  `Stitch4.blender`: orecchie
+1.  `Stitch5.blender`: braccia
+1.  `Stitch6.blender`: zampe
+1.  `Stitch7.blender`: occhi
+1.  `Stitch8.blender`: unghie
+1.  `Stitch9.blender`: bocca e colore
+1.  `Stitch10.blender`: scena (sfondo e rendering finale)
