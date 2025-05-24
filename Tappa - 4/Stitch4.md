@@ -3,7 +3,7 @@ Per la creazione delle braccia, invece, i passaggi iniziali sono sempre i medesi
 - prendere il Cube (`Shift + A, Mesh > Cube`);
 - posizionarlo vicino al busto (`G`) e ruotarlo di pochi gradi verso l'alto (`R`)
 - in Edit Mode aggiungiamo due Loop cut, uno verso il centro e l'altro verso la base inferiore del braccio
-- deformarlo per fare in modo che assomigli al braccio di Stitch, prendendo i vertici superiori ed inferiori della figura con `S + X` per stringerli e la linea centrale, sempre con `S + X` per allungarlo
+- deformarlo per fare in modo che assomigli al braccio di Stitch, prendendo i vertici superiori ed inferiori della figura con `S > X` per stringerli e la linea centrale, sempre con `S > X` per allungarlo
 - applichiamo il Modifier Subdivision Surface (`Add Modifier > Generate > Subdivision Surface`)
 - aggiungere Shade Smooth (tasto destro sull'oggetto > `Shade Smooth`)
 

@@ -5,7 +5,7 @@ selezionare la Mesh che vogliamo, ovvero `Mesh > Cube`.
 
 <img src = "../images/menu.PNG" width = "250">
 
-Il cubo scelto è stato allargato in altezza (`S + Z`) e in lunghezza (`S + X`), per farlo assomigliare
+Il cubo scelto è stato allargato in altezza (`S > Z`) e in lunghezza (`S > X`), per farlo assomigliare
 ad un busto (inizialmente senza forma). Poi si passa in Edit Mode (`Tab`) e si
 usa il comando `Ctrl + R`, usando i Loop Cut, per poter creare una nuova linea centrale utile 
 per la suddivisione successiva delle varie parti del corpo.

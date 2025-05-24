@@ -1,7 +1,7 @@
 # Descrizione dei passaggi effettuati (`Stich7.blend` - Occhi)
 Per la costruzione degli occhi, si usano gli stessi passaggi effettuati per gli arti creati in precedenza.
 
-Inizialmente, bisogna selezionare un oggetto Cube; in Edit Mode aggiungere dei Loop cut (`Ctrl+R`) ed infine applicare il modifier `Subdivision Surface`. Per creare un occhio simile a quello di Stitch a questo punto, o lo si fa a "sentimento" oppure si sovrappone la pallina creata, all'immagine di riferimento e si cerca, tramite la manipolazione dei vertici, di farla combaciare all'occhio del personaggio rappresentato in figura (`Shift + A > Image > Reference`).
+Inizialmente, bisogna selezionare un oggetto Cube; in Edit Mode aggiungere dei Loop cut (`Ctrl + R`) ed infine applicare il modifier `Subdivision Surface`. Per creare un occhio simile a quello di Stitch a questo punto, o lo si fa a "sentimento" oppure si sovrappone la pallina creata, all'immagine di riferimento e si cerca, tramite la manipolazione dei vertici, di farla combaciare all'occhio del personaggio rappresentato in figura (`Shift + A > Image > Reference`).
 
 <img src = "../images/occhio.PNG" width = "250">
 
