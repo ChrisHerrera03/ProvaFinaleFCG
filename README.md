@@ -5,8 +5,8 @@ Infine, il progetto nella sua interità è basato sull'utilizzo e sulla manipola
 La repository è costituita dalle cartelle che descrivono i passaggi progressivi (almeno 10) che hanno portato alla costruzione del personaggio dall'inizio fino alla sua conclusione. 
 Più precisamente, ciascuna cartella contiente i file:
 * `.blender`, contiene la struttura 3D del personaggio fino a quella determinata tappa
-* `.pdf`, contiene una minima descrizione delle modifiche aggiuntive effettuate fino a quella determinata tappa
-### Istruzioni d'uso
+* `.md`, contiene una minima descrizione delle modifiche aggiuntive effettuate fino a quella determinata tappa
+### IsTruzioni d'uso
 Per poter visualizzare il progresso del progetto sarà sufficiente cliccare sul file `.blender` contenuto all'interno della cartella della tappa che si vuole osservare.
 ## Lista precisa delle cose sviluppate per ogni tappa
 1.  `Stitch1.blender`: busto
